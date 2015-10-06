@@ -1,0 +1,508 @@
+[    1.551869] pci_bus 0000:0d: resource 0 [io  0xd000-0xdfff]
+[    1.551875] pci_bus 0000:0d: resource 1 [mem 0xfcb00000-0xfcbfffff]
+[    1.551881] pci_bus 0000:0d: resource 2 [mem 0xe7100000-0xe71fffff 64bit pref]
+[    1.551888] pci_bus 0000:0e: resource 1 [mem 0xfc700000-0xfc7fffff]
+[    1.551894] pci_bus 0000:0e: resource 2 [mem 0xe6d00000-0xe6dfffff 64bit pref]
+[    1.551900] pci_bus 0000:0f: resource 1 [mem 0xfc300000-0xfc3fffff]
+[    1.551906] pci_bus 0000:0f: resource 2 [mem 0xe6900000-0xe69fffff 64bit pref]
+[    1.551912] pci_bus 0000:10: resource 1 [mem 0xfbf00000-0xfbffffff]
+[    1.551918] pci_bus 0000:10: resource 2 [mem 0xe6500000-0xe65fffff 64bit pref]
+[    1.551925] pci_bus 0000:11: resource 1 [mem 0xfbb00000-0xfbbfffff]
+[    1.551931] pci_bus 0000:11: resource 2 [mem 0xe6100000-0xe61fffff 64bit pref]
+[    1.551937] pci_bus 0000:12: resource 1 [mem 0xfb700000-0xfb7fffff]
+[    1.551943] pci_bus 0000:12: resource 2 [mem 0xe5d00000-0xe5dfffff 64bit pref]
+[    1.551949] pci_bus 0000:13: resource 0 [io  0x6000-0x6fff]
+[    1.551955] pci_bus 0000:13: resource 1 [mem 0xfd200000-0xfd2fffff]
+[    1.551961] pci_bus 0000:13: resource 2 [mem 0xe7800000-0xe78fffff 64bit pref]
+[    1.551967] pci_bus 0000:14: resource 0 [io  0xa000-0xafff]
+[    1.551973] pci_bus 0000:14: resource 1 [mem 0xfce00000-0xfcefffff]
+[    1.551979] pci_bus 0000:14: resource 2 [mem 0xe7400000-0xe74fffff 64bit pref]
+[    1.551985] pci_bus 0000:15: resource 0 [io  0xe000-0xefff]
+[    1.551991] pci_bus 0000:15: resource 1 [mem 0xfca00000-0xfcafffff]
+[    1.551997] pci_bus 0000:15: resource 2 [mem 0xe7000000-0xe70fffff 64bit pref]
+[    1.552003] pci_bus 0000:16: resource 1 [mem 0xfc600000-0xfc6fffff]
+[    1.552009] pci_bus 0000:16: resource 2 [mem 0xe6c00000-0xe6cfffff 64bit pref]
+[    1.552016] pci_bus 0000:17: resource 1 [mem 0xfc200000-0xfc2fffff]
+[    1.552022] pci_bus 0000:17: resource 2 [mem 0xe6800000-0xe68fffff 64bit pref]
+[    1.552028] pci_bus 0000:18: resource 1 [mem 0xfbe00000-0xfbefffff]
+[    1.552034] pci_bus 0000:18: resource 2 [mem 0xe6400000-0xe64fffff 64bit pref]
+[    1.552040] pci_bus 0000:19: resource 1 [mem 0xfba00000-0xfbafffff]
+[    1.552046] pci_bus 0000:19: resource 2 [mem 0xe6000000-0xe60fffff 64bit pref]
+[    1.552053] pci_bus 0000:1a: resource 1 [mem 0xfb600000-0xfb6fffff]
+[    1.552059] pci_bus 0000:1a: resource 2 [mem 0xe5c00000-0xe5cfffff 64bit pref]
+[    1.552065] pci_bus 0000:1b: resource 0 [io  0x7000-0x7fff]
+[    1.552071] pci_bus 0000:1b: resource 1 [mem 0xfd100000-0xfd1fffff]
+[    1.552077] pci_bus 0000:1b: resource 2 [mem 0xe7700000-0xe77fffff 64bit pref]
+[    1.552083] pci_bus 0000:1c: resource 0 [io  0xb000-0xbfff]
+[    1.552088] pci_bus 0000:1c: resource 1 [mem 0xfcd00000-0xfcdfffff]
+[    1.552094] pci_bus 0000:1c: resource 2 [mem 0xe7300000-0xe73fffff 64bit pref]
+[    1.552101] pci_bus 0000:1d: resource 1 [mem 0xfc900000-0xfc9fffff]
+[    1.552107] pci_bus 0000:1d: resource 2 [mem 0xe6f00000-0xe6ffffff 64bit pref]
+[    1.552113] pci_bus 0000:1e: resource 1 [mem 0xfc500000-0xfc5fffff]
+[    1.552119] pci_bus 0000:1e: resource 2 [mem 0xe6b00000-0xe6bfffff 64bit pref]
+[    1.552126] pci_bus 0000:1f: resource 1 [mem 0xfc100000-0xfc1fffff]
+[    1.552132] pci_bus 0000:1f: resource 2 [mem 0xe6700000-0xe67fffff 64bit pref]
+[    1.552138] pci_bus 0000:20: resource 1 [mem 0xfbd00000-0xfbdfffff]
+[    1.552144] pci_bus 0000:20: resource 2 [mem 0xe6300000-0xe63fffff 64bit pref]
+[    1.552150] pci_bus 0000:21: resource 1 [mem 0xfb900000-0xfb9fffff]
+[    1.552156] pci_bus 0000:21: resource 2 [mem 0xe5f00000-0xe5ffffff 64bit pref]
+[    1.552163] pci_bus 0000:22: resource 1 [mem 0xfb500000-0xfb5fffff]
+[    1.552169] pci_bus 0000:22: resource 2 [mem 0xe5b00000-0xe5bfffff 64bit pref]
+[    1.552396] NET: Registered protocol family 2
+[    1.552533] IP route cache hash table entries: 32768 (order: 5, 131072 bytes)
+[    1.553523] TCP established hash table entries: 131072 (order: 8, 1048576 bytes)
+[    1.560522] TCP bind hash table entries: 65536 (order: 7, 524288 bytes)
+[    1.564379] TCP: Hash tables configured (established 131072 bind 65536)
+[    1.564388] TCP reno registered
+[    1.564398] UDP hash table entries: 512 (order: 2, 16384 bytes)
+[    1.564407] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+[    1.564510] NET: Registered protocol family 1
+[    1.564520] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[    1.564531] pci 0000:00:0f.0: Boot video device
+[    1.565527] PCI: CLS 32 bytes, default 64
+[    1.565538] Trying to unpack rootfs image as initramfs...
+[    2.041862] Freeing initrd memory: 6796k freed
+[    2.042994] Simple Boot Flag at 0x36 set to 0x1
+[    2.043972] apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)
+[    2.043980] apm: disabled - APM is not SMP safe.
+[    2.043991] audit: initializing netlink socket (disabled)
+[    2.044001] type=2000 audit(1433815318.885:1): initialized
+[    2.064154] highmem bounce pool size: 64 pages
+[    2.064165] HugeTLB registered 4 MB page size, pre-allocated 0 pages
+[    2.068273] VFS: Disk quotas dquot_6.5.2
+[    2.068326] Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+[    2.068942] msgmni has been set to 1714
+[    2.068953] SELinux:  Registering netfilter hooks
+[    2.071094] alg: No test for stdrng (krng)
+[    2.071156] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 253)
+[    2.071170] io scheduler noop registered
+[    2.071176] io scheduler deadline registered
+[    2.071191] io scheduler cfq registered (default)
+[    2.071905] pcieport 0000:00:15.0: setting latency timer to 64
+[    2.072946] pcieport 0000:00:15.0: irq 40 for MSI/MSI-X
+[    2.073924] pcieport 0000:00:15.1: setting latency timer to 64
+[    2.074918] pcieport 0000:00:15.1: irq 41 for MSI/MSI-X
+[    2.075803] pcieport 0000:00:15.2: setting latency timer to 64
+[    2.076917] pcieport 0000:00:15.2: irq 42 for MSI/MSI-X
+[    2.077799] pcieport 0000:00:15.3: setting latency timer to 64
+[    2.078798] pcieport 0000:00:15.3: irq 43 for MSI/MSI-X
+[    2.078932] pcieport 0000:00:15.4: setting latency timer to 64
+[    2.079924] pcieport 0000:00:15.4: irq 44 for MSI/MSI-X
+[    2.080688] pcieport 0000:00:15.5: setting latency timer to 64
+[    2.081674] pcieport 0000:00:15.5: irq 45 for MSI/MSI-X
+[    2.082648] pcieport 0000:00:15.6: setting latency timer to 64
+[    2.082941] pcieport 0000:00:15.6: irq 46 for MSI/MSI-X
+[    2.083921] pcieport 0000:00:15.7: setting latency timer to 64
+[    2.084925] pcieport 0000:00:15.7: irq 47 for MSI/MSI-X
+[    2.085921] pcieport 0000:00:16.0: setting latency timer to 64
+[    2.086938] pcieport 0000:00:16.0: irq 48 for MSI/MSI-X
+[    2.087921] pcieport 0000:00:16.1: setting latency timer to 64
+[    2.088789] pcieport 0000:00:16.1: irq 49 for MSI/MSI-X
+[    2.089786] pcieport 0000:00:16.2: setting latency timer to 64
+[    2.090786] pcieport 0000:00:16.2: irq 50 for MSI/MSI-X
+[    2.091787] pcieport 0000:00:16.3: setting latency timer to 64
+[    2.092787] pcieport 0000:00:16.3: irq 51 for MSI/MSI-X
+[    2.093677] pcieport 0000:00:16.4: setting latency timer to 64
+[    2.094784] pcieport 0000:00:16.4: irq 52 for MSI/MSI-X
+[    2.095783] pcieport 0000:00:16.5: setting latency timer to 64
+[    2.096777] pcieport 0000:00:16.5: irq 53 for MSI/MSI-X
+[    2.097771] pcieport 0000:00:16.6: setting latency timer to 64
+[    2.097920] pcieport 0000:00:16.6: irq 54 for MSI/MSI-X
+[    2.098941] pcieport 0000:00:16.7: setting latency timer to 64
+[    2.099902] pcieport 0000:00:16.7: irq 55 for MSI/MSI-X
+[    2.100900] pcieport 0000:00:17.0: setting latency timer to 64
+[    2.101899] pcieport 0000:00:17.0: irq 56 for MSI/MSI-X
+[    2.102933] pcieport 0000:00:17.1: setting latency timer to 64
+[    2.103895] pcieport 0000:00:17.1: irq 57 for MSI/MSI-X
+[    2.104919] pcieport 0000:00:17.2: setting latency timer to 64
+[    2.105907] pcieport 0000:00:17.2: irq 58 for MSI/MSI-X
+[    2.106970] pcieport 0000:00:17.3: setting latency timer to 64
+[    2.107918] pcieport 0000:00:17.3: irq 59 for MSI/MSI-X
+[    2.108891] pcieport 0000:00:17.4: setting latency timer to 64
+[    2.109903] pcieport 0000:00:17.4: irq 60 for MSI/MSI-X
+[    2.110910] pcieport 0000:00:17.5: setting latency timer to 64
+[    2.111887] pcieport 0000:00:17.5: irq 61 for MSI/MSI-X
+[    2.112760] pcieport 0000:00:17.6: setting latency timer to 64
+[    2.113759] pcieport 0000:00:17.6: irq 62 for MSI/MSI-X
+[    2.114759] pcieport 0000:00:17.7: setting latency timer to 64
+[    2.115757] pcieport 0000:00:17.7: irq 63 for MSI/MSI-X
+[    2.116768] pcieport 0000:00:18.0: setting latency timer to 64
+[    2.117756] pcieport 0000:00:18.0: irq 64 for MSI/MSI-X
+[    2.118754] pcieport 0000:00:18.1: setting latency timer to 64
+[    2.119766] pcieport 0000:00:18.1: irq 65 for MSI/MSI-X
+[    2.120754] pcieport 0000:00:18.2: setting latency timer to 64
+[    2.121751] pcieport 0000:00:18.2: irq 66 for MSI/MSI-X
+[    2.122749] pcieport 0000:00:18.3: setting latency timer to 64
+[    2.123866] pcieport 0000:00:18.3: irq 67 for MSI/MSI-X
+[    2.124872] pcieport 0000:00:18.4: setting latency timer to 64
+[    2.125895] pcieport 0000:00:18.4: irq 68 for MSI/MSI-X
+[    2.126865] pcieport 0000:00:18.5: setting latency timer to 64
+[    2.127872] pcieport 0000:00:18.5: irq 69 for MSI/MSI-X
+[    2.128868] pcieport 0000:00:18.6: setting latency timer to 64
+[    2.129860] pcieport 0000:00:18.6: irq 70 for MSI/MSI-X
+[    2.130739] pcieport 0000:00:18.7: setting latency timer to 64
+[    2.131749] pcieport 0000:00:18.7: irq 71 for MSI/MSI-X
+[    2.132738] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[    2.134080] pciehp 0000:00:15.0:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134144] pciehp 0000:00:15.0:pcie04: service driver pciehp loaded
+[    2.134159] pciehp 0000:00:15.1:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134173] pciehp 0000:00:15.1:pcie04: service driver pciehp loaded
+[    2.134187] pciehp 0000:00:15.2:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134201] pciehp 0000:00:15.2:pcie04: service driver pciehp loaded
+[    2.134215] pciehp 0000:00:15.3:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134229] pciehp 0000:00:15.3:pcie04: service driver pciehp loaded
+[    2.134243] pciehp 0000:00:15.4:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134258] pciehp 0000:00:15.4:pcie04: service driver pciehp loaded
+[    2.134272] pciehp 0000:00:15.5:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134286] pciehp 0000:00:15.5:pcie04: service driver pciehp loaded
+[    2.134300] pciehp 0000:00:15.6:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134739] pciehp 0000:00:15.6:pcie04: service driver pciehp loaded
+[    2.134749] pciehp 0000:00:15.7:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134883] pciehp 0000:00:15.7:pcie04: service driver pciehp loaded
+[    2.134897] pciehp 0000:00:16.0:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134911] pciehp 0000:00:16.0:pcie04: service driver pciehp loaded
+[    2.134926] pciehp 0000:00:16.1:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134940] pciehp 0000:00:16.1:pcie04: service driver pciehp loaded
+[    2.134954] pciehp 0000:00:16.2:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134968] pciehp 0000:00:16.2:pcie04: service driver pciehp loaded
+[    2.134982] pciehp 0000:00:16.3:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.134996] pciehp 0000:00:16.3:pcie04: service driver pciehp loaded
+[    2.135010] pciehp 0000:00:16.4:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135025] pciehp 0000:00:16.4:pcie04: service driver pciehp loaded
+[    2.135039] pciehp 0000:00:16.5:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135053] pciehp 0000:00:16.5:pcie04: service driver pciehp loaded
+[    2.135067] pciehp 0000:00:16.6:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135081] pciehp 0000:00:16.6:pcie04: service driver pciehp loaded
+[    2.135095] pciehp 0000:00:16.7:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135110] pciehp 0000:00:16.7:pcie04: service driver pciehp loaded
+[    2.135124] pciehp 0000:00:17.0:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135138] pciehp 0000:00:17.0:pcie04: service driver pciehp loaded
+[    2.135152] pciehp 0000:00:17.1:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135166] pciehp 0000:00:17.1:pcie04: service driver pciehp loaded
+[    2.135180] pciehp 0000:00:17.2:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135194] pciehp 0000:00:17.2:pcie04: service driver pciehp loaded
+[    2.135209] pciehp 0000:00:17.3:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135223] pciehp 0000:00:17.3:pcie04: service driver pciehp loaded
+[    2.135237] pciehp 0000:00:17.4:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135251] pciehp 0000:00:17.4:pcie04: service driver pciehp loaded
+[    2.135265] pciehp 0000:00:17.5:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135279] pciehp 0000:00:17.5:pcie04: service driver pciehp loaded
+[    2.135294] pciehp 0000:00:17.6:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135737] pciehp 0000:00:17.6:pcie04: service driver pciehp loaded
+[    2.135747] pciehp 0000:00:17.7:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135860] pciehp 0000:00:17.7:pcie04: service driver pciehp loaded
+[    2.135874] pciehp 0000:00:18.0:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135889] pciehp 0000:00:18.0:pcie04: service driver pciehp loaded
+[    2.135903] pciehp 0000:00:18.1:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135917] pciehp 0000:00:18.1:pcie04: service driver pciehp loaded
+[    2.135931] pciehp 0000:00:18.2:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135945] pciehp 0000:00:18.2:pcie04: service driver pciehp loaded
+[    2.135959] pciehp 0000:00:18.3:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.135974] pciehp 0000:00:18.3:pcie04: service driver pciehp loaded
+[    2.135988] pciehp 0000:00:18.4:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.136002] pciehp 0000:00:18.4:pcie04: service driver pciehp loaded
+[    2.136016] pciehp 0000:00:18.5:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.136030] pciehp 0000:00:18.5:pcie04: service driver pciehp loaded
+[    2.136044] pciehp 0000:00:18.6:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.136059] pciehp 0000:00:18.6:pcie04: service driver pciehp loaded
+[    2.136073] pciehp 0000:00:18.7:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    2.136087] pciehp 0000:00:18.7:pcie04: service driver pciehp loaded
+[    2.136101] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[    2.136108] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+[    2.136736] acpiphp: Slot [32] registered
+[    2.136746] acpiphp: Slot [33] registered
+[    2.136755] acpiphp: Slot [34] registered
+[    2.136763] acpiphp: Slot [35] registered
+[    2.136770] acpiphp: Slot [36] registered
+[    2.136776] acpiphp: Slot [37] registered
+[    2.136864] acpiphp: Slot [38] registered
+[    2.136878] acpiphp: Slot [39] registered
+[    2.136892] acpiphp: Slot [40] registered
+[    2.136906] acpiphp: Slot [41] registered
+[    2.136920] acpiphp: Slot [42] registered
+[    2.136935] acpiphp: Slot [43] registered
+[    2.136949] acpiphp: Slot [44] registered
+[    2.136963] acpiphp: Slot [45] registered
+[    2.136977] acpiphp: Slot [46] registered
+[    2.136991] acpiphp: Slot [47] registered
+[    2.137005] acpiphp: Slot [48] registered
+[    2.137020] acpiphp: Slot [49] registered
+[    2.137034] acpiphp: Slot [50] registered
+[    2.137048] acpiphp: Slot [51] registered
+[    2.137062] acpiphp: Slot [52] registered
+[    2.137076] acpiphp: Slot [53] registered
+[    2.137090] acpiphp: Slot [54] registered
+[    2.137105] acpiphp: Slot [55] registered
+[    2.137119] acpiphp: Slot [56] registered
+[    2.137133] acpiphp: Slot [57] registered
+[    2.137147] acpiphp: Slot [58] registered
+[    2.137161] acpiphp: Slot [59] registered
+[    2.137175] acpiphp: Slot [60] registered
+[    2.137189] acpiphp: Slot [61] registered
+[    2.137204] acpiphp: Slot [62] registered
+[    2.137218] acpiphp: Slot [63] registered
+[    2.137232] acpiphp_glue: Slot 160 already registered by another hotplug driver
+[    2.137246] acpiphp_glue: Slot 192 already registered by another hotplug driver
+[    2.137260] acpiphp_glue: Slot 224 already registered by another hotplug driver
+[    2.137274] acpiphp_glue: Slot 256 already registered by another hotplug driver
+[    2.137289] acpiphp_glue: Slot 161 already registered by another hotplug driver
+[    2.137303] acpiphp_glue: Slot 162 already registered by another hotplug driver
+[    2.137317] acpiphp_glue: Slot 163 already registered by another hotplug driver
+[    2.137331] acpiphp_glue: Slot 164 already registered by another hotplug driver
+[    2.137345] acpiphp_glue: Slot 165 already registered by another hotplug driver
+[    2.137359] acpiphp_glue: Slot 166 already registered by another hotplug driver
+[    2.137373] acpiphp_glue: Slot 167 already registered by another hotplug driver
+[    2.137388] acpiphp_glue: Slot 193 already registered by another hotplug driver
+[    2.137402] acpiphp_glue: Slot 194 already registered by another hotplug driver
+[    2.137416] acpiphp_glue: Slot 195 already registered by another hotplug driver
+[    2.137430] acpiphp_glue: Slot 196 already registered by another hotplug driver
+[    2.137444] acpiphp_glue: Slot 197 already registered by another hotplug driver
+[    2.137458] acpiphp_glue: Slot 198 already registered by another hotplug driver
+[    2.137473] acpiphp_glue: Slot 199 already registered by another hotplug driver
+[    2.137487] acpiphp_glue: Slot 225 already registered by another hotplug driver
+[    2.137501] acpiphp_glue: Slot 226 already registered by another hotplug driver
+[    2.137515] acpiphp_glue: Slot 227 already registered by another hotplug driver
+[    2.137529] acpiphp_glue: Slot 228 already registered by another hotplug driver
+[    2.137543] acpiphp_glue: Slot 229 already registered by another hotplug driver
+[    2.137558] acpiphp_glue: Slot 230 already registered by another hotplug driver
+[    2.137572] acpiphp_glue: Slot 231 already registered by another hotplug driver
+[    2.137586] acpiphp_glue: Slot 257 already registered by another hotplug driver
+[    2.137600] acpiphp_glue: Slot 258 already registered by another hotplug driver
+[    2.137614] acpiphp_glue: Slot 259 already registered by another hotplug driver
+[    2.137628] acpiphp_glue: Slot 260 already registered by another hotplug driver
+[    2.137636] acpiphp_glue: Slot 261 already registered by another hotplug driver
+[    2.137643] acpiphp_glue: Slot 262 already registered by another hotplug driver
+[    2.137737] acpiphp_glue: Slot 263 already registered by another hotplug driver
+[    2.137747] pci-stub: invalid id string ""
+[    2.138745] ACPI: AC Adapter [ACAD] (on-line)
+[    2.138877] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+[    2.138889] ACPI: Power Button [PWRF]
+[    2.140729] ACPI: acpi_idle registered with cpuidle
+[    2.265480] ERST: Table is not found!
+[    2.265515] isapnp: Scanning for PnP cards...
+[    2.631214] isapnp: No Plug & Play device found
+[    2.632050] Non-volatile memory driver v1.3
+[    2.632064] Linux agpgart interface v0.103
+[    2.632078] agpgart-intel 0000:00:00.0: Intel 440BX Chipset
+[    2.647049] agpgart-intel 0000:00:00.0: AGP aperture is 256M @ 0x0
+[    2.647063] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+[    2.891821] serial8250: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    3.136537] serial8250: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+[    3.137501] 00:0a: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    3.138485] 00:0b: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+[    3.141471] brd: module loaded
+[    3.143478] loop: module loaded
+[    3.143492] ata_piix 0000:00:07.1: version 2.13
+[    3.144505] scsi0 : ata_piix
+[    3.144679] scsi1 : ata_piix
+[    3.144693] ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0x1060 irq 14
+[    3.144700] ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0x1068 irq 15
+[    3.144783] Fixed MDIO Bus: probed
+[    3.144797] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[    3.144844] ehci_hcd 0000:02:03.0: PCI INT A -> GSI 17 (level, low) -> IRQ 17
+[    3.144970] ehci_hcd 0000:02:03.0: EHCI Host Controller
+[    3.145150] ehci_hcd 0000:02:03.0: new USB bus registered, assigned bus number 1
+[    3.145468] ehci_hcd 0000:02:03.0: cache line size of 32 is not supported
+[    3.145561] ehci_hcd 0000:02:03.0: irq 17, io mem 0xfd5ff000
+[    3.151469] ehci_hcd 0000:02:03.0: USB 2.0 started, EHCI 1.00
+[    3.151517] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    3.151531] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    3.151539] usb usb1: Product: EHCI Host Controller
+[    3.151544] usb usb1: Manufacturer: Linux 2.6.35.6_hyem ehci_hcd
+[    3.151550] usb usb1: SerialNumber: 0000:02:03.0
+[    3.151564] hub 1-0:1.0: USB hub found
+[    3.151578] hub 1-0:1.0: 6 ports detected
+[    3.151593] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[    3.151607] uhci_hcd: USB Universal Host Controller Interface driver
+[    3.151621] uhci_hcd 0000:02:00.0: PCI INT A -> GSI 18 (level, low) -> IRQ 18
+[    3.151635] uhci_hcd 0000:02:00.0: UHCI Host Controller
+[    3.151649] uhci_hcd 0000:02:00.0: new USB bus registered, assigned bus number 2
+[    3.151692] uhci_hcd 0000:02:00.0: irq 18, io base 0x000020c0
+[    3.151706] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001
+[    3.151720] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    3.151727] usb usb2: Product: UHCI Host Controller
+[    3.151733] usb usb2: Manufacturer: Linux 2.6.35.6_hyem uhci_hcd
+[    3.151738] usb usb2: SerialNumber: 0000:02:00.0
+[    3.151752] hub 2-0:1.0: USB hub found
+[    3.151767] hub 2-0:1.0: 2 ports detected
+[    3.152366] PNP: PS/2 Controller [PNP0303:KBC,PNP0f13:MOUS] at 0x60,0x64 irq 1,12
+[    3.153458] serio: i8042 KBD port at 0x60,0x64 irq 1
+[    3.153480] serio: i8042 AUX port at 0x60,0x64 irq 12
+[    3.153549] mice: PS/2 mouse device common for all mice
+[    3.153802] rtc_cmos 00:04: rtc core: registered rtc_cmos as rtc0
+[    3.153859] rtc0: alarms up to one month, y3k, 114 bytes nvram, hpet irqs
+[    3.153916] device-mapper: uevent: version 1.0.3
+[    3.154135] device-mapper: ioctl: 4.17.0-ioctl (2010-03-05) initialised: dm-devel@redhat.com
+[    3.154206] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input1
+[    3.155816] cpuidle: using governor ladder
+[    3.155827] cpuidle: using governor menu
+[    3.156671] usbcore: registered new interface driver hiddev
+[    3.156701] usbcore: registered new interface driver usbhid
+[    3.156707] usbhid: USB HID core driver
+[    3.156721] nf_conntrack version 0.5.0 (16020 buckets, 64080 max)
+[    3.156736] psmouse serio1: ID: 10 00 64
+[    3.157457] CONFIG_NF_CT_ACCT is deprecated and will be removed soon. Please use
+[    3.157471] nf_conntrack.acct=1 kernel parameter, acct=1 nf_conntrack module option or
+[    3.157477] sysctl net.netfilter.nf_conntrack_acct=1 to enable it.
+[    3.157597] ip_tables: (C) 2000-2006 Netfilter Core Team
+[    3.157611] TCP cubic registered
+[    3.157617] Initializing XFRM netlink socket
+[    3.157631] NET: Registered protocol family 17
+[    3.157645] Using IPI No-Shortcut mode
+[    3.157659] PM: Resume from disk failed.
+[    3.157674] registered taskstats version 1
+[    3.157688] IMA: No TPM chip found, activating TPM-bypass!
+[    3.160585] input: ImPS/2 Generic Wheel Mouse as /devices/platform/i8042/serio1/input/input2
+[    3.167561]   Magic number: 3:844:4
+[    3.187697] rtc_cmos 00:04: setting system clock to 2015-06-09 02:02:01 UTC (1433815321)
+[    3.187711] Initalizing network drop monitor service
+[    3.309625] ata2.00: ATAPI: VMware Virtual IDE CDROM Drive, 00000001, max UDMA/33
+[    3.310000] ata2.00: configured for UDMA/33
+[    3.310839] scsi 1:0:0:0: CD-ROM            NECVMWar VMware IDE CDR10 1.00 PQ: 0 ANSI: 5
+[    3.312700] sr0: scsi3-mmc drive: 306x/306x cd/rw xa/form2 cdda tray
+[    3.312710] Uniform CD-ROM driver Revision: 3.20
+[    3.312729] sr 1:0:0:0: Attached scsi CD-ROM sr0
+[    3.312748] sr 1:0:0:0: Attached scsi generic sg0 type 5
+[    3.312899] Freeing unused kernel memory: 536k freed
+[    3.313406] Write protecting the kernel text: 3744k
+[    3.313521] Write protecting the kernel read-only data: 1832k
+[    3.333179] dracut: dracut-006-3.fc14
+[    3.340670] dracut: rd_NO_LUKS: removing cryptoluks activation
+[    3.345663] udev[93]: starting version 161
+[    3.435042] dracut: Starting plymouth daemon
+[    3.454166] usb 2-1: new full speed USB device using uhci_hcd and address 2
+[    3.522191] Floppy drive(s): fd0 is 1.44M
+[    3.534707] FDC 0 is a post-1991 82077
+[    3.543838] Fusion MPT base driver 3.04.15
+[    3.543838] Copyright (c) 1999-2008 LSI Corporation
+[    3.552006] Fusion MPT SPI Host driver 3.04.15
+[    3.552079] mptspi 0000:00:10.0: PCI INT A -> GSI 17 (level, low) -> IRQ 17
+[    3.552806] mptbase: ioc0: Initiating bringup
+[    3.573651] ioc0: LSI53C1030 B0: Capabilities={Initiator}
+[    3.574770] usb 2-1: New USB device found, idVendor=0e0f, idProduct=0003
+[    3.574924] usb 2-1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[    3.574924] usb 2-1: Product: VMware Virtual USB Mouse
+[    3.574925] usb 2-1: Manufacturer: VMware
+[    3.579068] input: VMware VMware Virtual USB Mouse as /devices/pci0000:00/0000:00:11.0/0000:02:00.0/usb2/2-1/2-1:1.0/input/input3
+[    3.579121] generic-usb 0003:0E0F:0003.0001: input,hidraw0: USB HID v1.10 Mouse [VMware VMware Virtual USB Mouse] on usb-0000:02:00.0-1/input0
+[    3.615620] scsi2 : ioc0: LSI53C1030 B0, FwRev=01032920h, Ports=1, MaxQ=128, IRQ=17
+[    3.644931] scsi 2:0:0:0: Direct-Access     VMware,  VMware Virtual S 1.0  PQ: 0 ANSI: 2
+[    3.644973] scsi target2:0:0: Beginning Domain Validation
+[    3.645921] scsi target2:0:0: Domain Validation skipping write tests
+[    3.645930] scsi target2:0:0: Ending Domain Validation
+[    3.645935] scsi target2:0:0: FAST-40 WIDE SCSI 80.0 MB/s ST (25 ns, offset 127)
+[    3.647531] sd 2:0:0:0: Attached scsi generic sg1 type 0
+[    3.647797] sd 2:0:0:0: [sda] 41943040 512-byte logical blocks: (21.4 GB/20.0 GiB)
+[    3.647920] sd 2:0:0:0: [sda] Write Protect is off
+[    3.647956] sd 2:0:0:0: [sda] Mode Sense: 61 00 00 00
+[    3.647967] sd 2:0:0:0: [sda] Cache data unavailable
+[    3.647967] sd 2:0:0:0: [sda] Assuming drive cache: write through
+[    3.648339] sd 2:0:0:0: [sda] Cache data unavailable
+[    3.648347] sd 2:0:0:0: [sda] Assuming drive cache: write through
+[    3.648567]  sda: sda1 sda2 sda3 sda4 < sda5 >
+[    3.650312] sd 2:0:0:0: [sda] Cache data unavailable
+[    3.650321] sd 2:0:0:0: [sda] Assuming drive cache: write through
+[    3.650328] sd 2:0:0:0: [sda] Attached SCSI disk
+[    3.680811] usb 2-2: new full speed USB device using uhci_hcd and address 3
+[    3.797182] usb 2-2: New USB device found, idVendor=0e0f, idProduct=0002
+[    3.797193] usb 2-2: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[    3.797200] usb 2-2: Product: VMware Virtual USB Hub
+[    3.798034] hub 2-2:1.0: USB hub found
+[    3.798320] hub 2-2:1.0: 7 ports detected
+[    3.852795] EXT4-fs (sda3): INFO: recovery required on readonly filesystem
+[    3.852804] EXT4-fs (sda3): write access will be enabled during recovery
+[    4.371242] EXT4-fs (sda3): orphan cleanup on readonly fs
+[    4.371271] EXT4-fs (sda3): ext4_orphan_cleanup: deleting unreferenced inode 809694
+[    4.371390] EXT4-fs (sda3): ext4_orphan_cleanup: deleting unreferenced inode 809509
+[    4.371478] EXT4-fs (sda3): ext4_orphan_cleanup: deleting unreferenced inode 277894
+[    4.371508] EXT4-fs (sda3): ext4_orphan_cleanup: deleting unreferenced inode 277735
+[    4.371596] EXT4-fs (sda3): ext4_orphan_cleanup: deleting unreferenced inode 277697
+[    4.371626] EXT4-fs (sda3): ext4_orphan_cleanup: deleting unreferenced inode 277674
+[    4.371656] EXT4-fs (sda3): ext4_orphan_cleanup: deleting unreferenced inode 276738
+[    4.371685] EXT4-fs (sda3): 7 orphan inodes deleted
+[    4.371715] EXT4-fs (sda3): recovery complete
+[    4.375067] EXT4-fs (sda3): mounted filesystem with ordered data mode. Opts: (null)
+[    4.378813] dracut: Mounted root filesystem /dev/sda3
+[    4.432083] dracut: Loading SELinux policy
+[    4.464256] type=1404 audit(1433815322.777:2): enforcing=1 old_enforcing=0 auid=4294967295 ses=4294967295
+[    4.581857] SELinux: 2048 avtab hash slots, 204971 rules.
+[    4.718517] SELinux: 2048 avtab hash slots, 204971 rules.
+[    5.235083] SELinux:  9 users, 14 roles, 3433 types, 179 bools, 1 sens, 1024 cats
+[    5.235099] SELinux:  77 classes, 204971 rules
+[    5.245072] SELinux:  Completing initialization.
+[    5.245088] SELinux:  Setting up existing superblocks.
+[    5.245104] SELinux: initialized (dev sysfs, type sysfs), uses genfs_contexts
+[    5.245117] SELinux: initialized (dev rootfs, type rootfs), uses genfs_contexts
+[    5.245133] SELinux: initialized (dev bdev, type bdev), uses genfs_contexts
+[    5.245149] SELinux: initialized (dev proc, type proc), uses genfs_contexts
+[    5.245166] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+[    5.245182] SELinux: initialized (dev devtmpfs, type devtmpfs), uses transition SIDs
+[    5.246072] SELinux: initialized (dev sockfs, type sockfs), uses task SIDs
+[    5.246089] SELinux: initialized (dev debugfs, type debugfs), uses genfs_contexts
+[    5.246961] SELinux: initialized (dev pipefs, type pipefs), uses task SIDs
+[    5.246973] SELinux: initialized (dev anon_inodefs, type anon_inodefs), uses genfs_contexts
+[    5.246981] SELinux: initialized (dev devpts, type devpts), uses transition SIDs
+[    5.246997] SELinux: initialized (dev hugetlbfs, type hugetlbfs), uses transition SIDs
+[    5.247012] SELinux: initialized (dev mqueue, type mqueue), uses transition SIDs
+[    5.247014] SELinux: initialized (dev selinuxfs, type selinuxfs), uses genfs_contexts
+[    5.247063] SELinux: initialized (dev usbfs, type usbfs), uses genfs_contexts
+[    5.247075] SELinux: initialized (dev securityfs, type securityfs), uses genfs_contexts
+[    5.247085] SELinux: initialized (dev sysfs, type sysfs), uses genfs_contexts
+[    5.247101] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+[    5.247117] SELinux: initialized (dev sda3, type ext4), uses xattr
+[    5.281898] type=1403 audit(1433815323.595:3): policy loaded auid=4294967295 ses=4294967295
+[    5.666612] dracut: Switching root
+[    6.272719] udev[354]: starting version 161
+[    6.439205] piix4_smbus 0000:00:07.3: Host SMBus controller not enabled!
+[    6.569600] input: PC Speaker as /devices/platform/pcspkr/input/input4
+[    6.596552] pcnet32: pcnet32.c:v1.35 21.Apr.2008 tsbogend@alpha.franken.de
+[    6.596560] pcnet32 0000:02:01.0: PCI INT A -> GSI 19 (level, low) -> IRQ 19
+[    6.596828] pcnet32: PCnet/PCI II 79C970A at 0x2000, 00:0c:29:bd:9b:a9 assigned IRQ 19
+[    6.597563] pcnet32: eth0: registered as PCnet/PCI II 79C970A
+[    6.597635] pcnet32: 1 cards_found
+[    6.661708] microcode: CPU0 sig=0x306c3, pf=0x1, revision=0x1a
+[    6.676780] parport_pc 00:09: reported by Plug and Play ACPI
+[    6.676890] parport0: PC-style at 0x378, irq 7 [PCSPP,TRISTATE]
+[    6.755757] microcode: CPU1 sig=0x306c3, pf=0x1, revision=0x1a
+[    6.762615] microcode: CPU2 sig=0x306c3, pf=0x1, revision=0x1a
+[    6.767233] microcode: CPU3 sig=0x306c3, pf=0x1, revision=0x1a
+[    6.780992] microcode: Microcode Update Driver: v2.00 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+[    6.796465] ppdev: user-space parallel port driver
+[    6.965564] ENS1371 0000:02:02.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+[    8.289066] EXT4-fs (sda3): re-mounted. Opts: (null)
+[    8.593749] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+[    8.594240] SELinux: initialized (dev sda1, type ext4), uses xattr
+[    9.497369] Adding 4127740k swap on /dev/sda5.  Priority:-1 extents:1 across:4127740k 
+[    9.501231] SELinux: initialized (dev binfmt_misc, type binfmt_misc), uses genfs_contexts
+[   10.637910] NET: Registered protocol family 10
+[   10.638591] lo: Disabled Privacy Extensions
+[   10.698335] ip6_tables: (C) 2000-2006 Netfilter Core Team
+[   14.679156] fuse init (API version 7.14)
+[   14.831326] SELinux: initialized (dev fusectl, type fusectl), uses genfs_contexts
+[   14.938159] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   17.427836] pcnet32 0000:02:01.0: eth0: link up
+[   20.908961] RPC: Registered udp transport module.
+[   20.908968] RPC: Registered tcp transport module.
+[   20.908972] RPC: Registered tcp NFSv4.1 backchannel transport module.
+[   20.922781] SELinux: initialized (dev rpc_pipefs, type rpc_pipefs), uses genfs_contexts
+[   31.473668] eth0: no IPv6 routers present
+[   46.579114] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   77.668251] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   78.527704] end_request: I/O error, dev fd0, sector 0
+[   78.566177] end_request: I/O error, dev fd0, sector 0
+[ 2948.869676] pcnet32 0000:02:01.0: eth0: link down
+[ 2950.792346] pcnet32 0000:02:01.0: eth0: link up
+[ 3679.668057] hrtimer: interrupt took 8942431 ns
+[ 6806.402064] pcnet32 0000:02:01.0: eth0: link down
+[ 6816.390254] pcnet32 0000:02:01.0: eth0: link up
+[ 6822.382554] pcnet32 0000:02:01.0: eth0: link down
+[ 6828.084419] eth0: no IPv6 routers present
+[ 6832.371195] pcnet32 0000:02:01.0: eth0: link up
+[ 6843.631731] eth0: no IPv6 routers present
+[ 7247.898146] pcnet32 0000:02:01.0: eth0: link down
+[ 7259.884319] pcnet32 0000:02:01.0: eth0: link up
+[ 7271.688745] eth0: no IPv6 routers present
+[18449.051124] atkbd serio0: Unknown key pressed (translated set 2, code 0x71 on isa0060/serio0).
+[18449.051140] atkbd serio0: Use 'setkeycodes 71 <keycode>' to make it known.
+[18449.051375] atkbd serio0: Unknown key released (translated set 2, code 0x71 on isa0060/serio0).
+[18449.051384] atkbd serio0: Use 'setkeycodes 71 <keycode>' to make it known.
